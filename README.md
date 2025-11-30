@@ -11,6 +11,8 @@ The app helps students plan their studies effectively through features like subj
 🔄 Reactive UI with Kotlin Coroutines & StateFlow
 💉 Dependency injection using Dagger-Hilt
 🎨 Fully built using Jetpack Compose UI
+![image alt](https://github.com/Singhutkarsh2003/Focus_mate/blob/7efcfc29d29310b080c9f927dfa08fc0362d62de/Screenshot%202025-11-26%20212053.png)
+
 
 🛠️ Tech Stack
 Kotlin
