@@ -1,6 +1,7 @@
 FocusMate – Study Planner & Productivity App
 FocusMate is a modern Android productivity application built using Jetpack Compose, following MVVM architecture, and powered by Room Database and Dagger-Hilt. 
 The app helps students plan their studies effectively through features like subject management, upcoming tasks, study session timers, progress tracking, and session history.
+![image alt](Screenshot 2025-11-26 212037.png)
 
 📌 Key Features
 📝 Add, edit, and manage subjects with goals
