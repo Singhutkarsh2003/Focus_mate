@@ -12,8 +12,6 @@ The app helps students plan their studies effectively through features like subj
 💉 Dependency injection using Dagger-Hilt
 🎨 Fully built using Jetpack Compose UI
 
-
-
 🛠️ Tech Stack
 Kotlin
 Jetpack Compose
@@ -22,3 +20,4 @@ Room Database
 Dagger-Hilt DI
 Coroutines + Flow
 Material Design 3
+![image alt](https://github.com/Singhutkarsh2003/Focus_mate/blob/496948f22611a34cf5a797ef5810d478dd5fb9da/Screenshot%202025-11-26%20212216.png)
